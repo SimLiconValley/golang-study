@@ -1,0 +1,45 @@
+@startfiles golang-study-files-tree
+<note>
+기초 문법
+(변수, 제어문, 기본 타입 등)
+</note>
+/01-basics/01-packages-variables-funcs
+<note>
+패키지, 변수, 함수
+</note>
+/01-basics/02-flow-control
+<note>
+제어문
+(for, if, switch, defer 등)
+</note>
+/01-basics/03-more-types
+<note>
+구조체, 슬라이스, 맵
+</note>
+<note>
+메서드와 인터페이스
+</note>
+/02-methods-interfaces/01-methods/
+/02-methods-interfaces/02-interfaces/
+<note>
+제네릭 (Generics)
+</note>
+/03-generics/
+<note>
+동시성 (고루틴, 채널 등)
+</note>
+/04-concurrency/
+<note>
+문서 및 다이어그램
+</note>
+/docs/plantuml/golang-study-files-tree.puml
+/go.mod
+<note>
+Go 모듈 및
+의존성 관리 파일
+</note>
+/README.md
+<note>
+학습 저장소 소개 및 기록
+</note>
+@endfiles
